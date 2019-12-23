@@ -1,4 +1,6 @@
-# JColloids
+# JColloids 
+
+https://doi.org/10.1016/j.cpc.2018.04.033
 
 JChainsAnalyser is a Java-based software for the analysis of images of magneto-rheological fluids (MRF). A
 MRF consists on a suspension of micro-nanomagnetic particles on water or another organic liquid. When a
